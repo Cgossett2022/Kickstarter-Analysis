@@ -1,6 +1,8 @@
 # Kickstarting with Excel
 
-## Overview of Project
+## Overview
+
+### Overview of Project
 
 	The purpose of this project was to help Louise understand how her campaign for the play Fever, compared to other campaigns regarding their launch dates and funding goals. Even though she failed to reach her fundraising goal, this analysis will help her understand how to set effective goals and launch dates in future campaigns.
 
