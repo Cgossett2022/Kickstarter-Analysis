@@ -4,14 +4,14 @@
 
 ### Overview of Project
 
-	The purpose of this project was to help Louise understand how her campaign for the play Fever, compared to other campaigns regarding their launch dates and funding goals. Even though she failed to reach her fundraising goal, this analysis will help her understand how to set effective goals and launch dates in future campaigns.
+The purpose of this project was to help Louise understand how her campaign for the play Fever, compared to other campaigns regarding their launch dates and funding goals. Even though she failed to reach her fundraising goal, this analysis will help her understand how to set effective goals and launch dates in future campaigns.
 
 
 ## Analysis
 
 ### Analysis of Outcomes Based on Launch Date
 
-	I started my analysis by using the “Year” function to create a column for year, based on the “Date Created Conversion” column. This provided additional filtering capabilities which I knew I would need going forward. I then used a pivot table which included filters for “Parent Category” and “Year”, in addition to the totals for the number of successful outcomes by month. I also made a line graph based on this table, which illustrates the number of outcomes and their results per month. 
+I started my analysis by using the “Year” function to create a column for year, based on the “Date Created Conversion” column. This provided additional filtering capabilities which I knew I would need going forward. I then used a pivot table which included filters for “Parent Category” and “Year”, in addition to the totals for the number of successful outcomes by month. I also made a line graph based on this table, which illustrates the number of outcomes and their results per month. 
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/111243284/187776608-97cfb9db-9150-4492-935c-f1a2fc78fb0e.png)
 
