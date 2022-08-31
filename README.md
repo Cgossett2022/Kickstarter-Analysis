@@ -34,7 +34,8 @@ The main challenge I faced with this project was understanding how to use the �
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-	Based on the “Theater Outcomes by Launch Date”, I would encourage Louise to launch her campaign in May, since this month is when the most successful campaigns occur. I would also caution her not to wait until June, because the number of successful campaigns declines until September.
+	1. Based on the “Theater Outcomes by Launch Date”, I would encourage Louise to launch her campaign in May, since this month is when the most successful campaigns occur. 
+	2. I would also caution her not to wait until June, because the number of successful campaigns declines until September.
 
 - What can you conclude about the Outcomes based on Goals?
 
